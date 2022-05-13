@@ -5,10 +5,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1s0s&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
    
-  ### 🐣 HanSangSeon 🐥 
+  ### 한상선 Sang Seon, Han 🐥 
   
   ---
-💻 개발자
+💻 백엔드 개발자
+
+**이노트리** <sub><sup> 백엔드 개발자 (2022.04.25 ~)</sup></sub>  
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
