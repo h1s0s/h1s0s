@@ -10,8 +10,6 @@
   ---
 💻 백엔드 개발자
 
-**이노트리** <sub><sup> 백엔드 개발자 (2022.04.25 ~)</sup></sub>  
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
