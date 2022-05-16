@@ -8,7 +8,7 @@
   ### 한상선 Sang Seon, Han 🐥 
   
   ---
-💻 백엔드 개발자
+💻 개발자
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
