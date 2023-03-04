@@ -13,7 +13,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/-SpringBatch-6DB33F?style=flat-square&logo=ONLYOFFICE&logoColor=white)
-![Spring JPA](https://img.shields.io/badge/-SpringBatch-6DB33F?style=flat-square&logo=SpringBatch&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/-SpringJPA-6DB33F?style=flat-square&logo=SpringBatch&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)
 
 * **Web:** ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
