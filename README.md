@@ -5,7 +5,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1s0s&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   # **Han Sang Seon | 자바 개발자**🐥
-💻**자바개발자(2022.04 ~)**
+💻**자바PE/BE웹개발자(2022.04 ~)**
+💻**정보처리기사(2023.06)**
 <br/><br/><br/>
 ### Skill.
 * **BackEnd:** 
