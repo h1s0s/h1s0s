@@ -2,7 +2,7 @@
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 <!-- https://simpleicons.org/ -->
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1s0s&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1s0s&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   # **Han Sang Seon | 자바 개발자**🐥
 💻**자바PE/BE웹개발자(2022.04 ~)**
@@ -38,3 +38,4 @@
 ![InteliJ](https://img.shields.io/badge/InteliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+ -->
